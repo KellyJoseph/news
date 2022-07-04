@@ -1,2 +1,2 @@
 # news
-sprin crud api
+spring crud api
